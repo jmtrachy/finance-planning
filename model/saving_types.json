@@ -1,0 +1,16 @@
+[
+  {
+    "name": "401K",
+    "id": "401K",
+    "maxContribution": 18500,
+    "maxEmployerMatch": 8000,
+    "returnProfile": "SNP500"
+  },
+  {
+    "name": "Cash stock account",
+    "id": "BROKERAGE",
+    "maxContribution": 1000000,
+    "maxEmployerMatch": 0,
+    "returnProfile": "SNP500"
+  }
+]
